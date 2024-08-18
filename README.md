@@ -1,4 +1,4 @@
-The Placement drive portal is specia; design for colleges and students so 
+The Placement drive portal is specially design for colleges and students as well as HR
 The Placement Drive Portal is a comprehensive web application designed to streamline and manage campus recruitment processes. It provides a platform for students to apply for placements, for HR representatives to post job opportunities,
 and for college administrators to oversee and manage the entire recruitment process.
  Features
