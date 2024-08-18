@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|c:\\users\\chaitanya\\source\\repos\\hr_module\\hr_module\\settest.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|solutionrelative:hr_module\\settest.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\hr_module\\settest.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|solutionrelative:hr_module\\settest.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\hr_module\\viewjobs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|solutionrelative:hr_module\\viewjobs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|c:\\users\\chaitanya\\source\\repos\\hr_module\\hr_module\\viewjobs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|solutionrelative:hr_module\\viewjobs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\hr_module\\createjob.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|solutionrelative:hr_module\\createjob.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\hr_module\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|solutionrelative:hr_module\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|c:\\users\\chaitanya\\source\\repos\\hr_module\\hr_module\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|solutionrelative:hr_module\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\hr_module\\viewtestscores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|solutionrelative:hr_module\\viewtestscores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|c:\\users\\chaitanya\\source\\repos\\hr_module\\hr_module\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|solutionrelative:hr_module\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\hr_module\\createjob.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|solutionrelative:hr_module\\createjob.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\hr_module\\scripts\\settest.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AAF10B86-3881-4C83-8661-1830A9A8D7AD}|HR_Module\\HR_Module.csproj|solutionrelative:hr_module\\scripts\\settest.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SetTest.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\SetTest.aspx.cs",
+              "RelativeDocumentMoniker": "HR_Module\\SetTest.aspx.cs",
+              "ToolTip": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\SetTest.aspx.cs",
+              "RelativeToolTip": "HR_Module\\SetTest.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:20:51.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\packages.config",
+              "RelativeDocumentMoniker": "HR_Module\\packages.config",
+              "ToolTip": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\packages.config",
+              "RelativeToolTip": "HR_Module\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-13T06:00:47.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewJobs.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\ViewJobs.aspx.cs",
+              "RelativeDocumentMoniker": "HR_Module\\ViewJobs.aspx.cs",
+              "ToolTip": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\ViewJobs.aspx.cs",
+              "RelativeToolTip": "HR_Module\\ViewJobs.aspx.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAwwLEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:38:27.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewJobs.aspx",
+              "DocumentMoniker": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\ViewJobs.aspx",
+              "RelativeDocumentMoniker": "HR_Module\\ViewJobs.aspx",
+              "ToolTip": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\ViewJobs.aspx",
+              "RelativeToolTip": "HR_Module\\ViewJobs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-13T00:55:26.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\Home.aspx",
+              "RelativeDocumentMoniker": "HR_Module\\Home.aspx",
+              "ToolTip": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\Home.aspx",
+              "RelativeToolTip": "HR_Module\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T15:26:34.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateJob.aspx",
+              "DocumentMoniker": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\CreateJob.aspx",
+              "RelativeDocumentMoniker": "HR_Module\\CreateJob.aspx",
+              "ToolTip": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\CreateJob.aspx",
+              "RelativeToolTip": "HR_Module\\CreateJob.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T15:28:11.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SetTest.aspx",
+              "DocumentMoniker": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\SetTest.aspx",
+              "RelativeDocumentMoniker": "HR_Module\\SetTest.aspx",
+              "ToolTip": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\SetTest.aspx",
+              "RelativeToolTip": "HR_Module\\SetTest.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-13T01:42:04.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewTestScores.aspx",
+              "DocumentMoniker": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\ViewTestScores.aspx",
+              "RelativeDocumentMoniker": "HR_Module\\ViewTestScores.aspx",
+              "ToolTip": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\ViewTestScores.aspx",
+              "RelativeToolTip": "HR_Module\\ViewTestScores.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-13T00:55:35.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "HR_Module\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\Home.aspx.cs",
+              "RelativeToolTip": "HR_Module\\Home.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:47:39.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateJob.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\CreateJob.aspx.cs",
+              "RelativeDocumentMoniker": "HR_Module\\CreateJob.aspx.cs",
+              "ToolTip": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\CreateJob.aspx.cs",
+              "RelativeToolTip": "HR_Module\\CreateJob.aspx.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:28:19.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "settest.js",
+              "DocumentMoniker": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\scripts\\settest.js",
+              "RelativeDocumentMoniker": "HR_Module\\scripts\\settest.js",
+              "ToolTip": "C:\\Users\\Chaitanya\\source\\repos\\HR_Module\\HR_Module\\scripts\\settest.js",
+              "RelativeToolTip": "HR_Module\\scripts\\settest.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-13T00:51:56.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

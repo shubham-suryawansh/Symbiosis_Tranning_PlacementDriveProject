@@ -1,0 +1,3 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Placement_PortalDrive.SiteMaster" %>
+
+
